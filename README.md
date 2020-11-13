@@ -1,4 +1,15 @@
+## 概要
 payloadの文字列から湯婆婆のセリフを返します
+
+## インストール
+
+```
+npm i node-red-contrib-yubaba
+```
+
+or
+
+AdminタブからInstall
 
 ## LINK
 
